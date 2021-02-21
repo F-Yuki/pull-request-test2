@@ -7,4 +7,4 @@ nums.each do |num|
 end
 
 
-puts "プルリク練習用コード"
+print "プルリク練習用コード"
